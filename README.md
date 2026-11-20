@@ -6,7 +6,7 @@ Project management, energy operations, and process improvement—supported by pr
 
 This React and TypeScript website presents Naomi’s professional experience and selected case studies for hiring teams evaluating project coordination, business operations, and process improvement capabilities.
 
-For the more recently updated operations narrative, see [Strategic Operations Portfolio](https://github.com/TaNeekwa/Strategic-operations-portfolio).
+For the more recently updated operations narrative, see [Strategic Operations Portfolio](https://github.com/NaomiFD-ux/Strategic-operations-portfolio).
 
 ## Business capabilities demonstrated
 
